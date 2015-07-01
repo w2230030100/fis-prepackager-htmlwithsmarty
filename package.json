@@ -1,6 +1,6 @@
 {
   "name": "fis-prepackager-htmlwithsmarty",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "一个将smarty语法应用到html上的工具 方便集成度不高有需求的同学使用",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "nfj": "1.0.0"
+    "nfj": "1.0.3"
   }
 }
